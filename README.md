@@ -68,7 +68,7 @@
 
 <div>
  <br><p align="justify"> Mariana Rodrigues Lamounier Melo</p>
- <a href="https://t.me/">
+ <a href="https://t.me/MariRodriguess0">
  <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
  </div>
 <a style="color:black" href="mailto:mariana.itapec@gmail.com?subject=[GitHub]%20Source%20Dynamic%20Lists">
