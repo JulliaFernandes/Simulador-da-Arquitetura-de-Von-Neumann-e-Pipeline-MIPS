@@ -22,7 +22,16 @@
 
 ## Contato
 <div>
- <p align="justify"> Julia Rezende</p>
+ <p align="justify"> Anna Laura Moura Santana</p>
+ <a href="https://t.me/">
+ <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
+ </div>
+<a style="color:black" href="mailto:nalauramoura@gmail.com?subject=[GitHub]%20Source%20Dynamic%20Lists">
+✉️ <i>nalauramoura@gmail.com</i>
+</a>
+
+<div>
+ <br><p align="justify"> Julia Rezende</p>
  <a href="https://t.me/juliarezende34">
  <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
  </div>
@@ -46,4 +55,22 @@
  </div>
 <a style="color:black" href="mailto:letolsilva22@gmail.com?subject=[GitHub]%20Source%20Dynamic%20Lists">
 ✉️ <i>letolsilva22@gmail.com</i>
+</a>
+
+<div>
+ <br><p align="justify"> Lucas Lima de Oliveira</p>
+ <a href="https://t.me/">
+ <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
+ </div>
+<a style="color:black" href="mailto:lucaslimadeoliveira80@gmail.com?subject=[GitHub]%20Source%20Dynamic%20Lists">
+✉️ <i>lucaslimadeoliveira80@gmail.com</i>
+</a>
+
+<div>
+ <br><p align="justify"> Mariana Rodrigues Lamounier Melo</p>
+ <a href="https://t.me/">
+ <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
+ </div>
+<a style="color:black" href="mailto:mariana.itapec@gmail.com?subject=[GitHub]%20Source%20Dynamic%20Lists">
+✉️ <i>mariana.itapec@gmail.com</i>
 </a>
