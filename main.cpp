@@ -1,15 +1,14 @@
 #include "include.cpp"
+#include "unidadeControle.cpp"
 
-int registradores[32]; 
+#define NUM_PERIFERICOS 5
+
 int PC = 0;
-int clock = 0;
-// PC += 4;
+int CLOCK = 0;
 
-// o primeiro dígito da instrução no arquivo é onde vai ser salvo (operações da ula)
-
-void LerInstrucoesDoArquivo(const string& nomeArquivo, int * registradores){
+void LerInstrucoesDoArquivo(const string& nomeArquivo, int *registradores){
     
-    string nomeArquivo = "input.data"; 
+    // string nomeArquivo = "input.data"; 
     
     ifstream arquivo(nomeArquivo); 
     string linha;
@@ -20,20 +19,37 @@ void LerInstrucoesDoArquivo(const string& nomeArquivo, int * registradores){
     }
 
     while (getline(arquivo, linha)) {
-        stringstream ss(linha);
-        
-        
-      
+        // stringstream ss(linha);
+        UnidadeControle(registradores, linha);
     }
 
     arquivo.close(); // Fecha o arquivo
 }
 
 int main (){
-    
-    registradores[0] = 10; // Armazena 10 no registrador 0
-    registradores[1] = 20; // Armazena 20 no registrador 1
-    int soma = registradores[0] + registradores[1]; // Soma
 
+    string nomeArquivo = "input.data"; 
+    int * registradores = (int *) malloc(32 * sizeof(int)); 
+    LerInstrucoesDoArquivo(nomeArquivo, registradores);
+
+    // Periféricos
+    bool perifericos[NUM_PERIFERICOS] = {false};
+
+    // Memórias
+    unordered_map<int, int> cache;
+    vector<int> principal;
+    vector<vector<int>> disco;
+
+    cout << "PC: " << PC << " " << "CLOCK: " << CLOCK << endl;
+    
     return 0;    
 }
+
+
+
+
+
+
+
+
+
