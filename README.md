@@ -23,7 +23,7 @@
 ## Contato
 <div>
  <p align="justify"> Anna Laura Moura Santana</p>
- <a href="https://t.me/">
+ <a href="https://t.me/annalaurams">
  <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
  </div>
 <a style="color:black" href="mailto:nalauramoura@gmail.com?subject=[GitHub]%20Source%20Dynamic%20Lists">
@@ -59,7 +59,7 @@
 
 <div>
  <br><p align="justify"> Lucas Lima de Oliveira</p>
- <a href="https://t.me/">
+ <a href="https://t.me/oilucaslima">
  <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
  </div>
 <a style="color:black" href="mailto:lucaslimadeoliveira80@gmail.com?subject=[GitHub]%20Source%20Dynamic%20Lists">
